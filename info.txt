@@ -1,0 +1,1 @@
+its a web browser created using python programming language it has all basic feature as go back go to home and all basic browser feature it also have database that is used to store history of the web browser and the history can be viewed using the history button in the web browser
